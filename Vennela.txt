@@ -1,4 +1,5 @@
 Hello 
 this is a text for Git
 Master branch
-this is the updated version V2.
+Devops Trainning
+Github Training
